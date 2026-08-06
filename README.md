@@ -107,42 +107,6 @@ An AI-powered learning platform designed to transform learning experiences.
 
 ---
 
-## 🏥 NCMS - Management System
-
-A full-stack management system built with modern enterprise technologies.
-
-### Technologies:
-- React
-- Spring Boot
-- PostgreSQL
-- REST APIs
-
-### Features:
-- Role-based management
-- Backend API architecture
-- Database-driven workflows
-
-
----
-
-## 🛒 POS & Sales Management System
-
-A modern Point of Sale application.
-
-### Technologies:
-- React
-- Node.js
-- Express.js
-- MySQL
-
-### Features:
-- Sales management
-- Product management
-- Admin dashboard
-- Database integration
-
-
-<br>
 
 
 # 🛠 Languages & Tools
@@ -190,44 +154,6 @@ Currently exploring:
 - LangChain
 - Hugging Face Models
 - Gemini API
-
-
-<br>
-
-
-# 📊 GitHub Statistics
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dishan-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishan-dev&layout=compact&theme=tokyonight" />
-</p>
-
-
-<br>
-
-
-# 🌐 Connect With Me
-
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/dishan-bashitha-60a138295">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-
-<a href="https://instagram.com/_.bashitha._">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-</a>
-
-
-</p>
-
 
 <br>
 
