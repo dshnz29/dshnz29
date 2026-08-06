@@ -1,98 +1,203 @@
 <h1 align="center">Hi 👋, I'm Dishan Bashitha</h1>
-<h3 align="center">A Passionate Programmer from Sri lanka</h3>
-<p align="center"> I'm Dishan Bashitha, an IT undergraduate at the University of Moratuwa and a student at ESOFT Metro Campus. 🌐With over four years of experience in web development and design, I specialize in creating stunning websites, responsive designs, and UX/UI solutions. Additionally,💻 I excel in designing flyers, Facebook posts, banners, and video intros. I combine my academic knowledge and practical skills to turn your vision into a digital reality. Let's create something extraordinary together! </p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Dishan Bashitha" /> 
 
+<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast 🇱🇰</h3>
+
+<p align="center">
+I'm an IT & Management undergraduate at the University of Moratuwa and a Software Engineer passionate about building scalable web applications, AI-powered solutions, and modern digital experiences.
+
+With experience in full-stack development, I specialize in React, Next.js, Node.js, Spring Boot, and database-driven applications. I enjoy transforming ideas into efficient, user-friendly software solutions while continuously exploring cloud technologies, DevOps, and Artificial Intelligence.
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dishan-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<br>
+
+<h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+
+<img src="https://skillicons.dev/icons?i=java,python,cs,ts,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,prisma,docker,git,github,vscode,linux,tailwind" />
+
 </div>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
 
-- 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Devops**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Java, Python, PHP and Laravel**
+- 🔭 Currently working as a **Software Engineer**
+- 🎓 IT & Management Undergraduate at **University of Moratuwa**
+- 💼 Experienced in **Full Stack Web Development**
+- 🌱 Currently learning **DevOps, Cloud & AI Engineering**
+- 🤖 Building AI-powered applications using **Gemini API, LangChain & Hugging Face**
+- 🚀 Interested in **Software Architecture, Distributed Systems & Product Development**
+- 📫 Reach me at **dshnz029@gmail.com**
 
-- 📫 How to reach me **dshnz029@gmail.com**
-
-- ⚡ Think fact **Future made by, what you do today**
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dishan-bashitha-60a138295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dishan-bashitha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22718037/dishan-bashitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dishan-bashitha" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dishan-bashitha" height="30" width="40" /></a>
-<a href="https://instagram.com/_.bashitha._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishan-bashitha" height="30" width="40" /></a>
-</p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">Hire Me - 
-I'm passionate about web development and design. I am available for freelance projects and am eager to collaborate on innovative and exciting web solutions. My expertise spans across multiple programming languages and frameworks, ensuring that I can deliver high-quality, efficient, and scalable solutions. Let's build something amazing together!</p>
 
 <br>
-<p align="right" > Created with 🧡 by Dishan Bashitha</p>
+
+
+## 💼 Professional Experience
+
+### Software Engineer
+**NIOLLA PVT LTD**
+
+- Developing scalable web applications
+- Working with modern frontend and backend technologies
+- Designing database-driven solutions
+
+
+### Software Engineer
+**ASL**
+
+- Developing and maintaining software solutions
+- Collaborating on application development and system improvements
+
+
+### AIESEC in University of Colombo South
+**LCVP Public Relations & Information Management (Term 26.27)**
+
+- Managing PR strategies and organizational communication
+- Handling digital platforms and information systems
+- Supporting partnerships, campaigns, and branding initiatives
+- Working with data management and analytics systems
+
+
+<br>
+
+
+## 🚀 Featured Projects
+
+
+### 🧠 LearnGenix - AI Learning Platform
+
+Full-stack AI-powered learning platform.
+
+**Tech Stack:**
+- Next.js
+- Node.js
+- Prisma
+- PostgreSQL
+- Socket.IO
+- Gemini API
+- AI Document Processing
+
+Features:
+- PDF to Quiz Generation
+- AI Summarization
+- Multiplayer Quiz System
+- Real-time Communication
+
+
+### 🏥 NCMS - Management System
+
+Enterprise management application.
+
+**Tech Stack:**
+- React
+- Spring Boot
+- PostgreSQL
+- REST APIs
+
+
+### 🛒 POS & Sales Management System
+
+Modern Point of Sale application.
+
+**Tech Stack:**
+- React
+- Node.js
+- Express.js
+- MySQL
+
+
+<br>
+
+
+## 🛠 Languages and Tools
+
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
+
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,cs" />
+</p>
+
+
+### Database & Backend Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase" />
+</p>
+
+
+### AI & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,postman,linux" />
+</p>
+
+
+<br>
+
+
+## 📊 GitHub Statistics
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dishan-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishan-dev&layout=compact&theme=tokyonight" />
+</p>
+
+
+<br>
+
+
+## 🌐 Connect With Me
+
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dishan-bashitha-60a138295">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+
+
+<a href="https://instagram.com/_.bashitha._">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+
+</p>
+
+
+<br>
+
+
+## 🤝 Let's Build Something Amazing
+
+I'm passionate about software engineering, AI innovation, and building impactful digital products.
+
+Open to:
+- Software Engineering Opportunities
+- Full Stack Development Projects
+- AI-based Applications
+- Technology Collaborations
+
+
+<br>
+
+<p align="center">
+Created with ❤️ by Dishan Bashitha
+</p>
