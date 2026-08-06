@@ -3,79 +3,92 @@
 <h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast 🇱🇰</h3>
 
 <p align="center">
-I'm an IT & Management undergraduate at the University of Moratuwa and a Software Engineer passionate about building scalable web applications, AI-powered solutions, and modern digital experiences.
+I'm an IT & Management undergraduate at the University of Moratuwa and a Software Engineer passionate about building scalable software solutions, AI-powered applications, and modern digital experiences.
 
-With experience in full-stack development, I specialize in React, Next.js, Node.js, Spring Boot, and database-driven applications. I enjoy transforming ideas into efficient, user-friendly software solutions while continuously exploring cloud technologies, DevOps, and Artificial Intelligence.
+I specialize in full-stack development using React, Next.js, Node.js, Spring Boot, and database technologies. I enjoy designing efficient systems, solving real-world problems, and continuously exploring Artificial Intelligence, Cloud, and DevOps technologies.
 </p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Dishan-dev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">🚀 Technology Stack</h2>
 
-<div align="center">
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cs,ts,js,react,nextjs,nodejs,express,spring,mysql,postgres,mongodb,prisma,docker,git,github,vscode,linux,tailwind" />
-
-</div>
+</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Software Engineer**
 - 🎓 IT & Management Undergraduate at **University of Moratuwa**
-- 💼 Experienced in **Full Stack Web Development**
-- 🌱 Currently learning **DevOps, Cloud & AI Engineering**
-- 🤖 Building AI-powered applications using **Gemini API, LangChain & Hugging Face**
-- 🚀 Interested in **Software Architecture, Distributed Systems & Product Development**
+- 💻 Software Engineer with experience in full-stack application development
+- 🏢 Previously worked as a **Software Engineer at NIOLLA PVT LTD**
+- 🏢 Previously worked as a **Software Engineer at ASL**
+- 🌱 Currently learning **DevOps, Cloud Engineering & AI Engineering**
+- 🤖 Interested in AI applications using **Gemini API, LangChain & Hugging Face**
+- 🚀 Passionate about Software Architecture, Web Applications & Product Development
 - 📫 Reach me at **dshnz029@gmail.com**
 
 
 <br>
 
 
-## 💼 Professional Experience
-
-### Software Engineer
-**NIOLLA PVT LTD**
-
-- Developing scalable web applications
-- Working with modern frontend and backend technologies
-- Designing database-driven solutions
+# 💼 Professional Experience
 
 
-### Software Engineer
-**ASL**
+## Software Engineer  
+### NIOLLA PVT LTD  
+**Completed**
 
-- Developing and maintaining software solutions
-- Collaborating on application development and system improvements
+- Worked as a Software Engineer contributing to full-stack software development.
+- Developed and maintained scalable web applications.
+- Built frontend interfaces and backend services using modern technologies.
+- Worked with databases, APIs, and software engineering practices.
+- Collaborated with teams to deliver reliable software solutions.
 
 
-### AIESEC in University of Colombo South
-**LCVP Public Relations & Information Management (Term 26.27)**
+---
 
-- Managing PR strategies and organizational communication
-- Handling digital platforms and information systems
-- Supporting partnerships, campaigns, and branding initiatives
-- Working with data management and analytics systems
+## Software Engineer  
+### ASL  
+**Completed**
+
+- Contributed to software development projects and system improvements.
+- Developed application features and backend services.
+- Worked with modern frameworks, APIs, and database solutions.
+- Participated in software development lifecycle activities.
+
+
+---
+
+## LCVP Public Relations & Information Management  
+### AIESEC in University of Colombo South  
+**Current**
+
+- Managing PR strategies, communication systems, and organizational branding.
+- Handling digital platforms, information management, and analytics.
+- Coordinating university relations, partnerships, and campaigns.
+- Improving internal systems using technology and data-driven approaches.
 
 
 <br>
 
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 
-### 🧠 LearnGenix - AI Learning Platform
+## 🧠 LearnGenix - AI Learning Platform
 
-Full-stack AI-powered learning platform.
+An AI-powered learning platform designed to transform learning experiences.
 
-**Tech Stack:**
+### Technologies:
 - Next.js
 - Node.js
 - Prisma
@@ -84,78 +97,111 @@ Full-stack AI-powered learning platform.
 - Gemini API
 - AI Document Processing
 
-Features:
-- PDF to Quiz Generation
-- AI Summarization
-- Multiplayer Quiz System
-- Real-time Communication
+### Features:
+✅ PDF to Quiz Generation  
+✅ AI Summarization  
+✅ Multiplayer Quiz System  
+✅ Real-time Communication  
+✅ AI-assisted Learning
 
 
-### 🏥 NCMS - Management System
+---
 
-Enterprise management application.
+## 🏥 NCMS - Management System
 
-**Tech Stack:**
+A full-stack management system built with modern enterprise technologies.
+
+### Technologies:
 - React
 - Spring Boot
 - PostgreSQL
 - REST APIs
 
+### Features:
+- Role-based management
+- Backend API architecture
+- Database-driven workflows
 
-### 🛒 POS & Sales Management System
 
-Modern Point of Sale application.
+---
 
-**Tech Stack:**
+## 🛒 POS & Sales Management System
+
+A modern Point of Sale application.
+
+### Technologies:
 - React
 - Node.js
 - Express.js
 - MySQL
 
+### Features:
+- Sales management
+- Product management
+- Admin dashboard
+- Database integration
+
 
 <br>
 
 
-## 🛠 Languages and Tools
+# 🛠 Languages & Tools
 
 
-### Frontend Development
+## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
 
-### Backend Development
+## Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,cs" />
 </p>
 
 
-### Database & Backend Services
+## Databases & Backend Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase,supabase" />
 </p>
 
 
-### AI & Development Tools
+## AI & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,vscode,linux" />
 </p>
 
 
 <br>
 
 
-## 📊 GitHub Statistics
+# 🤖 AI & Emerging Technologies
+
+Currently exploring:
+
+- Generative AI Applications
+- Large Language Models (LLMs)
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+- LangChain
+- Hugging Face Models
+- Gemini API
+
+
+<br>
+
+
+# 📊 GitHub Statistics
 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dishan-dev&show_icons=true&theme=tokyonight" />
 </p>
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishan-dev&layout=compact&theme=tokyonight" />
@@ -165,7 +211,7 @@ Modern Point of Sale application.
 <br>
 
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 
 <p align="left">
@@ -179,24 +225,26 @@ Modern Point of Sale application.
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
 
+
 </p>
 
 
 <br>
 
 
-## 🤝 Let's Build Something Amazing
+# 🤝 Let's Connect
 
-I'm passionate about software engineering, AI innovation, and building impactful digital products.
+I'm interested in:
 
-Open to:
 - Software Engineering Opportunities
 - Full Stack Development Projects
-- AI-based Applications
+- AI-powered Applications
+- Open Source Contributions
 - Technology Collaborations
 
 
 <br>
+
 
 <p align="center">
 Created with ❤️ by Dishan Bashitha
