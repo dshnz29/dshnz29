@@ -84,7 +84,7 @@ I specialize in full-stack development using React, Next.js, Node.js, Spring Boo
 # 🚀 Featured Projects
 
 
-## 🧠 LearnGenix - AI Learning Platform
+## 🧠 Learnix - AI Learning Platform
 
 An AI-powered learning platform designed to transform learning experiences.
 
